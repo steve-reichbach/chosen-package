@@ -1,5 +1,9 @@
 Package.describe({
-  summary: "Chosen is a library for making long, unwieldy select boxes more friendly."
+  name: 'eskan:chosen',
+  version: '1.3.0',
+  summary: 'Chosen is a library for making long, unwieldy select boxes more friendly.',
+  git: 'https://github.com/eskan/chosen-package',
+  documentation: 'README.md'
 });
 
 Package.on_use(function (api, where) {
