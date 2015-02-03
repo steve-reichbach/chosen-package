@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.use('jquery');
+  api.use('jquery@1.4.0');
 
   api.add_files('chosen.jquery.js', 'client');
   api.add_files('chosen.css', 'client');
