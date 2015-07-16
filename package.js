@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'eskan:chosen',
-  version: '1.4.2',
+  name: 'jganz:chosen',
+  version: '1.4.3',
   summary: 'Chosen is a library for making long, unwieldy select boxes more friendly.',
-  git: 'https://github.com/eskan/chosen-package',
+  git: 'https://github.com/jganz/chosen-package',
   documentation: 'README.md'
 });
 
