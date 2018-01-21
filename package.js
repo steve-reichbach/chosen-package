@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'jganz:chosen',
-  version: '1.4.3',
+  name: 'steve-reichbach:chosen',
+  version: '1.8.8',
   summary: 'Chosen is a library for making long, unwieldy select boxes more friendly.',
-  git: 'https://github.com/jganz/chosen-package',
+  git: 'https://github.com/steve-reichbach/chosen-package',
   documentation: 'README.md'
 });
 
